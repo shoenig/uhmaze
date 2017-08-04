@@ -14,4 +14,4 @@ uhmaze [algo] [filename]
 ```
 
 ## demo
-[Imgur](http://i.imgur.com/PzqSn0F.png)
+![uhmaze](http://i.imgur.com/PzqSn0F.png)
